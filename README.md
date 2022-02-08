@@ -42,7 +42,7 @@
 
 Me and my brother used to play a game in newspapers. Every morning, we pickup pen and a paper and then started to find words starting with letter <strong>"A"</strong>. The one who underlines 10 words first, will be the winner. We play 10-12 games and then there was no word starting with "A" left which was not underlined, then we start the game with letter "B" and so on. Then he got busy in his life and me in mine.
 
-I got admitted in IIT(ISM) Dhanbad for mining engineering but got some interest in computer programming. I was never the guy who wanted to do competitive programming for getting placed. I tried that but eventually got back to what i love the most, building real products. I was sick of just solving algorithmic problems and wanted to build some products. I build some really cool products but this one is my favorite.
+I got admitted in IIT(ISM) Dhanbad for computer science engineering. I was never the guy who wanted to do competitive programming for getting placed. I tried that but eventually got back to what i love the most, building real products. I was sick of just solving algorithmic problems and wanted to build some products. I build some really cool products but this one is my favorite.
 
 I built newsgamer for a few reasons.
 
@@ -73,7 +73,7 @@ Coming soon
 
 ## Contact
 
-Harsh Vats - [LinkedIn](https://www.linkedin.com/in/harsh-vats-02b210150/)
+Nikhil Chauhan - [LinkedIn](https://www.linkedin.com/in/nikhil-chauhan-1918b11a7/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
